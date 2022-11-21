@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75efc762.css",
+    "main.js": "/static/js/main.f33bf13a.js",
+    "static/media/laundry-logo.png": "/static/media/laundry-logo.bd2496e74171f38ba24d.png",
+    "index.html": "/index.html",
+    "main.75efc762.css.map": "/static/css/main.75efc762.css.map",
+    "main.f33bf13a.js.map": "/static/js/main.f33bf13a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75efc762.css",
+    "static/js/main.f33bf13a.js"
+  ]
+}
